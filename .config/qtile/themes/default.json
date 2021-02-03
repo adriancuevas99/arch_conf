@@ -1,0 +1,42 @@
+{
+    "marcado": [
+        "#db9214",
+        "#db9214"
+    ],
+    "activo": [
+        "#f1ffff",
+        "#f1ffff"
+    ],
+    "inactivo": [
+        "#4b524d",
+        "#4b524d"    
+    ],
+    "pop-up": [
+        "#F07178",
+        "#F07178"
+    ],
+    "ventana": [
+        "#2bbf0a",
+        "#2bbf0a"
+    ],
+    "blanco": [
+        "#ffffff",
+        "#ffffff"
+    ],
+    "fondo": [
+        "#0f101a",
+        "#0f101a"
+    ],
+    "color1": [
+        "#0888bf",
+        "#0888bf"
+    ],
+    "color2": [
+        "#a151d3",
+        "#a151d3"
+    ],
+    "color3": [
+        "#c21f3a",
+        "#c21f3a"
+    ]
+}

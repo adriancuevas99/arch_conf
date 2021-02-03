@@ -1,0 +1,6 @@
+hacer script que replique la configuracion de arch
+
+
+añadir opacidad a la barra de arriba
+arreglar esquema de colores de alacritty
+sudo systemctl list-units --type=service

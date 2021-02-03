@@ -1,0 +1,7 @@
+[Added Associations]
+image/jpeg=firefox.desktop;imv.desktop;
+image/png=imv.desktop;
+text/x-python=nvim.desktop;
+
+[Default Applications]
+image/png=imv.desktop

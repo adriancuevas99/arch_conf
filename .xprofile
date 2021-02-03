@@ -1,0 +1,27 @@
+# Env vars
+export PATH=$HOME/.local/bin:$PATH
+export _JAVA_AWT_WM_NONREPARENTING=1
+
+# Keyboard Layout
+setxkbmap es &
+
+# Wallpaper
+feh --bg-scale Wallpapers/19.jpg &
+
+# Personalizacion de alacritty
+picom &
+
+# Icono de volumen
+volumeicon &
+
+# Montaje automatico de discos
+udiskie -t &
+
+# Icono del wifi
+nm-applet &
+
+# Icono de la bateria
+cbatticon &
+
+# Bluetooth
+blueman-applet &

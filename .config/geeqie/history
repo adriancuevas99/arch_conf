@@ -1,0 +1,18 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Carpeta de inicio[path]/home/adrian"
+"Escritorio[path]/home/adrian/Desktop"
+"Colecciones[path]/home/adrian/.local/share/geeqie/collections"
+
+[path_list]
+"/home/adrian/Downloads"
+
+[bookmarks]
+".[path]/home/adrian/Downloads"
+"Carpeta de inicio[path]/home/adrian"
+"Escritorio[path]/home/adrian/Desktop"
+"Colecciones[path]/home/adrian/.local/share/geeqie/collections"
+
+#end
